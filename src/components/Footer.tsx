@@ -14,6 +14,7 @@ export default function Footer() {
                  alt="Honey PG Logo" 
                  className="h-12 w-auto" 
               />
+              <span className="font-serif text-2xl font-bold tracking-tight text-[#1a1a1a]">Honey PG</span>
             </div>
             <p className="text-gray-400 text-base leading-relaxed max-w-sm">
               Providing modern, secure, and luxury living for students and professionals in Kharadi, Pune.

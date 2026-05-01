@@ -25,6 +25,7 @@ export default function Navbar({ onInquire }: { onInquire: () => void }) {
                alt="Honey PG Logo" 
                className="h-10 md:h-12 w-auto" 
             />
+            <span className="font-serif text-xl md:text-2xl font-black tracking-tighter text-brand-primary uppercase">Honey PG</span>
           </div>
           
           {/* Desktop Menu */}
